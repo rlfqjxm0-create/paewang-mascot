@@ -75,9 +75,10 @@
   "sub": "#8390b0",
   "line": "#c9d5f2",
   "panel": "#fbfcff",
-  "bg": "#f2f5fd",
+  "bg": "#ffffff",
   "soft": "#eaf0fc",
-  "border2": "#a8bce8"
+  "border2": "#a8bce8",
+  "deco": "fox"
  },
  "titles": [
   [
@@ -120,7 +121,7 @@
  "level": true,
  "update_dot": true,
  "typing_arm": true,
- "card_top": 26,
+ "card_top": 64,
  "reset_menu": false,
- "char_lift": 95
+ "char_lift": 0
 }
