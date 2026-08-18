@@ -1,0 +1,126 @@
+{
+ "name": "패왕",
+ "scale": 0.314,
+ "screen_quad": [
+  [
+   196,
+   1115
+  ],
+  [
+   466,
+   1112
+  ],
+  [
+   457,
+   1186
+  ],
+  [
+   169,
+   1186
+  ]
+ ],
+ "blink": null,
+ "trail_color": "#5d78c0",
+ "hard_alpha": true,
+ "timer": {
+  "enabled": true,
+  "idle_sec": 15
+ },
+ "fun": true,
+ "nose": [
+  539,
+  841
+ ],
+ "arms_over_head": false,
+ "pen_grain": false,
+ "todo": true,
+ "talk": [
+  "오늘도 조용히 가 볼까요.",
+  "선 하나에 마음 하나.",
+  "꼬리는 아홉, 손은 하나.",
+  "천천히, 그러나 멈추지 않게.",
+  "그 획, 마음에 들어요.",
+  "여우는 기다릴 줄 알아요.",
+  "숨 한 번 쉬고 다시.",
+  "어둠이 짙으면 등을 켜요.",
+  "오늘 몫은 오늘 만큼만.",
+  "잘하고 있어요, 정말로."
+ ],
+ "gestures": true,
+ "stretch_talk": [
+  "허리 한 번 펴요.",
+  "목도 돌려요.",
+  "어깨 좀 풀어요."
+ ],
+ "stretch_done_talk": [
+  "시원하죠?",
+  "됐어요.",
+  "좋아요."
+ ],
+ "stretch_hint_suffix": " — 눌러줘",
+ "remember_pos": true,
+ "history": true,
+ "deadline_on": true,
+ "goal_cheer": true,
+ "soft_overlay": true,
+ "pen_monitor_pick": false,
+ "gestures_plus": true,
+ "stickers": true,
+ "youtube": true,
+ "card": {
+  "fill": "#7f9ce0",
+  "border": "#b9c9f0",
+  "track": "#dde5fa",
+  "text": "#3e4a6b",
+  "sub": "#8390b0",
+  "line": "#c9d5f2",
+  "panel": "#fbfcff",
+  "bg": "#f2f5fd",
+  "soft": "#eaf0fc",
+  "border2": "#a8bce8"
+ },
+ "titles": [
+  [
+   1,
+   "첫 획"
+  ],
+  [
+   3,
+   "낙서 시작"
+  ],
+  [
+   5,
+   "선 긋는 중"
+  ],
+  [
+   8,
+   "지우개 단골"
+  ],
+  [
+   12,
+   "밑그림 연습"
+  ],
+  [
+   17,
+   "여우 걸음"
+  ],
+  [
+   23,
+   "꼬리 하나"
+  ],
+  [
+   30,
+   "달빛 아래"
+  ],
+  [
+   40,
+   "구미호"
+  ]
+ ],
+ "level": true,
+ "update_dot": true,
+ "typing_arm": true,
+ "card_top": 26,
+ "reset_menu": false,
+ "char_lift": 95
+}
