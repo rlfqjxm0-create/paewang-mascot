@@ -1,7 +1,7 @@
 {
- "version": 1787062865,
+ "version": 1787068790,
  "files": {
-  "mascot.py": "9b7494968468b28a8cab54f4454d59b17e85610f86f62696656b0f8ddc87d339",
+  "mascot.py": "054062f88828a2d67b1ee69a61c3af750ec390fdcfd4acae511c8f8b97f27f98",
   "parts_paewang/arm_key.png": "289b08c27e7fe04ed6e8375f29b3c2467dfc4670d0edda52845065227b44651e",
   "parts_paewang/arm_pen.png": "8fd1db540615e16d3c364cb0e57b7896ad37329a196b0acf9379c81bfc00d220",
   "parts_paewang/arm_right.png": "ebbd8d1367d1267d77093807bf333b161dba70bc4953ea43da73b64d1dcf7efd",
@@ -401,6 +401,12 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "b24fce8125c2234285ae5f8dfbb612eb879c8897476d7fbfcc04856057e42e76"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "홈 칸의 얇은 테두리를 없앴어요. 그림이 테두리 밖으로 삐져나와 보이던 것이 사라집니다",
+  "홈에 뜨는 차례가 바뀌었어요 — 내 캐릭터가 맨 앞, 그다음은 오늘 게이지를 많이 채운 순, 안 켠 사람은 뒤로",
+  "홈의 칭호·시간·퍼센트 글씨를 굵게 했어요",
+  "쓰담쓰담을 받을 때 손이 안 보이던 캐릭터들(햄북이·연어·레냥·락스·패왕·성실이)에 손 그림을 넣었어요",
+  "우클릭할 때 그림자가 잠깐 앞으로 번쩍이던 것을 고쳤어요",
+  "환경음 파일을 가볍게 만들어(한 사람당 162MB → 33MB) 업데이트가 훨씬 빨라졌어요"
+ ]
 }
