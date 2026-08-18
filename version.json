@@ -1,7 +1,7 @@
 {
- "version": 1787052105,
+ "version": 1787053012,
  "files": {
-  "mascot.py": "64a5abf9228f8e32430daba4ef3e094686d1702ec5e7094c04337f9012e506df",
+  "mascot.py": "a3e25fe8096a6e7b7c2973b357f740131bfb44e96c8854227d2ddc00fac960e2",
   "parts_paewang/arm_key.png": "289b08c27e7fe04ed6e8375f29b3c2467dfc4670d0edda52845065227b44651e",
   "parts_paewang/arm_pen.png": "8fd1db540615e16d3c364cb0e57b7896ad37329a196b0acf9379c81bfc00d220",
   "parts_paewang/arm_right.png": "ebbd8d1367d1267d77093807bf333b161dba70bc4953ea43da73b64d1dcf7efd",
@@ -127,6 +127,10 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "b24fce8125c2234285ae5f8dfbb612eb879c8897476d7fbfcc04856057e42e76"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "뽀모도로 타이머가 도는 동안엔 타이머 카드에 남은 시간이 떠요",
+  "집중 25분 · 쉬는 시간 5분 · 네 번째엔 15분. 한 바퀴가 끝나면 저절로 멈추고 원래대로 돌아와요",
+  "레벨과 칭호, 하루 게이지는 그대로 있어요",
+  "패왕이 눈이 또렷해졌어요"
+ ]
 }
