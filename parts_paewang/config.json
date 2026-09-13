@@ -1,5 +1,6 @@
 {
  "themes": true,
+ "dark_theme": true,
  "name": "패왕",
  "scale": 0.314,
  "screen_quad": [
